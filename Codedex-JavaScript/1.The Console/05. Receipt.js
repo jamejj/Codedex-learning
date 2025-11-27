@@ -1,0 +1,12 @@
+// Write code below 💖
+console.log("==============================")
+console.log("            Lidl              ")
+console.log("------------------------------")
+console.log("Item       Quantity      Price")
+console.log("------------------------------")
+console.log("Bread          1          4.20")
+console.log("Tea            1          3.10")
+console.log("Chips          2          5.50")
+console.log("------------------------------")
+console.log("Total                    12.80")
+console.log("==============================")
